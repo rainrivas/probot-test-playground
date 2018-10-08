@@ -1,1 +1,2 @@
-sample test file
+
+Adding new contribs to the magic file
